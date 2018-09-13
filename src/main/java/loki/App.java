@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.prantln( "Hello World!" );
         System.out.println( "foot-1" );
         System.out.println( "foo-2" );
         System.out.println( "foo-3" );
